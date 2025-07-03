@@ -98,5 +98,6 @@
         printf("Número de pontos turisticos: %d\n", pontos_turisticos2);
         printf("Densidade populacional: %.2f hab/km²\n", densidade_populacional2);
         printf("PIB per capita: %.2f reais\n", PIB_per_capita2);
-       
+
+        
     }
